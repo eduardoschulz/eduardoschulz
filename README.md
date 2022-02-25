@@ -1,6 +1,6 @@
 ### Hello there 
 
-![enter image description here](http://eduardos.duckdns.org:1065/abstract.jpg)
+![enter image description here](abstract.jpg)
 
 
 - 🔭 I’m currently working on Bachelor's Degree at Unisinos
