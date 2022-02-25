@@ -1,11 +1,11 @@
 ### Hello there 
 
+![enter image description here](http://eduardos.duckdns.org:1065/abstract.jpg)
 
-**eduardoschulz/eduardoschulz**
 
 - 🔭 I’m currently working on Bachelor's Degree at Unisinos
 - 🌱 I’m currently learning Python, C, Java, Linux and other technologies
 - 📫 How to reach me: 
-Linkedin](www.linkedin.com/in/eduardo-s-31b637209)
+[Linkedin](www.linkedin.com/in/eduardo-s-31b637209)
 [Email](eduardo.schulz@protonmail.com)
 
